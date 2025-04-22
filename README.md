@@ -40,7 +40,7 @@ O código está organizado em células no Jupyter Notebook, separadas por:
 
 ## Como usar
 
-1. Configure os caminhos dos arquivos de entrada em '*_file'
+1. Configure os caminhos dos arquivos de entrada na célula apropriada
 2. Execute as células na ordem definida
 3. Os relatórios serão gerados automaticamente
 
