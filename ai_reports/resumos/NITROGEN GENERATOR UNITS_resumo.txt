@@ -1,0 +1,14 @@
+RESUMO DO RELATÓRIO: NITROGEN GENERATOR UNITS
+================================================================================
+
+Aqui está um resumo dos principais fatos relevantes e pontos de atenção do relatório:
+
+Fatos Relevantes:
+1. Reunião de PIM (Pre-Inspection Meeting) realizada em 1-2 de abril de 2025
+2. Pedidos de compra dos principais equipamentos já foram emitidos (compressor, módulo de membrana N2, motor, vaso de pressão)
+3. Documentos técnicos chave (PID, GAD, ITP, Datasheet) receberam comentários e estão em análise
+
+Pontos de Atenção:
+1. Pontos de inspeção hidrostática do compressor HP e do airend do compressor de ar foram alterados para inspeção com testemunha - impacto no cronograma está sendo avaliado
+2. A fabricação da unidade geradora de N2 para flare precisa iniciar até meados de abril/2025 para atender o prazo contratual
+3. Pendente emissão de PO para PLC e acessórios para Altus Brasil e outros componentes menores (elementos filtrantes, purgadores, etc)

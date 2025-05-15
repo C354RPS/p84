@@ -1,0 +1,12 @@
+RESUMO DO RELATÓRIO: SEA WATER ELECTROCHLORINATION UNIT
+================================================================================
+
+Principais fatos relevantes (3 linhas):
+1. O projeto encontra-se na fase inicial de engenharia e procura, com foco na emissão de documentação técnica e antecipação dos pacotes de aquisição de equipamentos para as unidades SWEU e FWC.
+2. Já foram emitidas algumas ordens de compra importantes para itens como Retificador de Transformador, Painéis Elétricos, Bombas Centrífugas e Eletrolisadores.
+3. O progresso físico atual está em 16,7%, contra um planejado de 22,1%, gerando um desvio negativo de -5,4%.
+
+Pontos de atenção (3 linhas):
+1. Existe atraso nos prazos de entrega de equipamentos com motores elétricos devido aos longos lead times impostos pelo fabricante WEG.
+2. Está pendente a aprovação do TQF referente à mudança do aço ASTM.A.131 para ASTM.A.572 para construção dos skids metálicos.
+3. Embora existam atrasos pontuais, a empresa afirma que ainda não há impacto na data final de entrega dos skids.

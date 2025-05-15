@@ -1,0 +1,12 @@
+RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Himile)
+================================================================================
+
+Principais fatos relevantes:
+1. O projeto está na fase inicial com 17,6% de progresso total, focado principalmente em engenharia (36,4%) e procurement (70%).
+2. Foram emitidas ordens de compra para itens importantes como tubos, tubesheet e chapas do corpo principal.
+3. Data prevista de entrega final do equipamento é 15/03/2026, com FAT programado para 24/01/2026.
+
+Pontos de atenção:
+1. Pendente resposta sobre flange do corpo que está impactando a data de compra deste item.
+2. Aguardando aprovação do desenho detalhado que deveria ocorrer em 16 de maio.
+3. Aguardando aprovação das revisões do GA (General Arrangement) e CAL (Cálculos).

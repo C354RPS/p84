@@ -1,0 +1,12 @@
+RESUMO DO RELATÓRIO: FRESH WATER MAKER FOR OIL DILUTION
+================================================================================
+
+Principais fatos relevantes:
+1. Pedidos de compra já realizados para Avicomp (painéis de controle), KSB (bombas), WEG (painéis) e Himile (fabricação)
+2. Existem equipamentos com longo prazo de entrega, como bombas centrífugas com 49 semanas de prazo
+3. O projeto está em fase de engenharia, com desenvolvimento de especificações técnicas, listas de instrumentos e análise estrutural
+
+Pontos de atenção:
+1. NPSHr (altura de sucção) insuficiente devido à redução na pressão mínima de entrada da água do mar
+2. Documentos críticos estão pendentes de comentários da Petrobras para submissão no sistema PIMS 
+3. Identificadas mudanças nas especificações (PDS) que podem impactar o projeto, aguardando detalhamento

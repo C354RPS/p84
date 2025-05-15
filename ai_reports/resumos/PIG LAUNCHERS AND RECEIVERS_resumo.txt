@@ -1,0 +1,12 @@
+RESUMO DO RELATÓRIO: PIG LAUNCHERS AND RECEIVERS
+================================================================================
+
+Principais fatos relevantes:
+1. O projeto está na fase inicial de engenharia, com desenhos GA e cálculos de design submetidos para revisão em 25-26 de abril/2025
+2. Ordem de compra (PO) confirmada para fornecedor de QOC (Quick Opening Closure) - DB Progetti
+3. Iniciadas cotações para tubulações e forjados
+
+Pontos de atenção:
+1. Pedido para materiais do corpo (barrel) pendente devido à mudança do código de design de B31.8 para B31.3
+2. Aguardando retorno da Seatrium e KBR para aprovação dos documentos de design para iniciar a compra de materiais críticos
+3. Necessário resubmeter desenhos GA, detalhes de bocais e cálculos mecânicos após retorno das revisões
