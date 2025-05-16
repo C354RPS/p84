@@ -1,0 +1,18 @@
+RESUMO DO RELATÓRIO: RECIPROCATING PUMPS
+================================================================================
+
+Primeiro relatório do pacote RECIPROCATING PUMPS ainda não emitido.
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. MR Rev A e MDS Rev A emitidos em 26 de março, com PO emitido em 19 de março
+2. KOM realizado em 15 e 16 de abril de 2025
+3. Comentários sobre P&ID preliminar, VDRL e diagramas de interconexão compartilhados com Peroni em 28/abril/2025
+
+Pontos de atenção:
+1. Pendente resposta da Peroni sobre TQ EL-36 e itens elétricos C&E (16, 40, 56-60)
+2. Aguardando fechamento do item C&E 73 referente ao API 614 - Peroni deve fornecer desvios específicos
+3. Estudo de pulsação para operação de bomba única (Well service pump) aguardando resposta da equipe de Operações Subsea da Petrobras

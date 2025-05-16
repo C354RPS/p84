@@ -2,11 +2,25 @@ RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Himile)
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto envolve trocadores de calor para P84 e P85 sendo fabricados pela Himile Mechanical Manufacturing na China
-2. O progresso físico atual está em 17,6% para P84 e 12,2% para P85
-3. Foram emitidas ordens de compra para os principais materiais: tubos, espelhos, chapas do corpo principal e flanges
+1. Os projetos P84 e P85 são Shell and Tube Heat Exchangers para o campo de Atapu, sendo fabricados pela Himile Mechanical Manufacturing na China
+2. Ambos encontram-se na fase inicial de engenharia e procurement, com desenhos submetidos aguardando aprovação (GA, cálculos e detalhamento)
+3. Principais compras já realizadas incluem tubos, tubesheet, chapas do corpo (clad e CS) e flanges
 
 Pontos de atenção:
-1. Aguardando aprovação dos desenhos detalhados que devem ser aprovados até 16 de maio
-2. Necessidade de resposta sobre flange do corpo pois está impactando o prazo de compra do material
-3. Alguns materiais têm prazo longo de entrega, como chapas cladeadas (julho/2025) e tubos (setembro/2025)
+1. Necessidade de resposta sobre body flange que está impactando o cronograma de compra deste item
+2. Desenhos detalhados devem ser aprovados até 16 de maio
+3. Diversos fornecedores chineses envolvidos no fornecimento de materiais críticos, requerendo acompanhamento próximo da qualidade
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. KOM realizado com dois fornecedores: Himile (24/março) e Asvotec (26-28/março)
+2. Documentação em revisão para ambos fornecedores, incluindo GA Drawings, cálculos térmicos e mecânicos
+3. MR em Rev A e MDS em Rev B já emitidos, com alguns itens já liberados pelo PB
+
+Pontos de atenção:
+1. Main Gas Compressor Discharge Cooler: pendência sobre weld toe to toe distance
+2. Structure Tank recovery Gas Cooler: questões com velocidade do shell side e necessidade de confirmar posicionamento das nozzles
+3. Fuel Gas Heater e Injection Water Recycle Cooler: mudanças de materiais propostas para adequar dimensões, pendente testes de impacto e confirmação de handling

@@ -2,11 +2,25 @@ RESUMO DO RELATÓRIO: FRESH WATER CHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto em fase inicial de engenharia com foco na emissão de documentação técnica e antecipação dos pacotes de aquisição para os skids SWEU e FWC.
-2. Contrato foi assinado em 14/03/2025 e já há mudança na estratégia de execução, antecipando processos de aquisição.
-3. Os principais equipamentos do caminho crítico são: Retificadores, Bombas, Painéis Elétricos, Estrutura do Skid e Instrumentação de Processo.
+1. O projeto está em fase inicial, com foco na emissão de documentação técnica e antecipação dos pacotes de aquisição de equipamentos para as unidades SWEU e FWC.
+2. Houve alteração na estratégia de execução do projeto, antecipando os processos de procurement para mitigar riscos de entrega.
+3. O aumento de recursos humanos e antecipação das aquisições já mostra sinais de recuperação na curva S do projeto.
 
 Pontos de atenção:
-1. Há atraso no progresso geral do projeto em relação ao planejado (24,29% realizado vs 27,3% previsto).
-2. Atrasos significativos são esperados para equipamentos que possuem motores elétricos devido aos longos prazos do fabricante WEG.
-3. Fornecedores de vários componentes críticos estão localizados em diferentes países (China, EUA, Brasil, Índia), o que pode impactar prazos de entrega.
+1. Há atraso na entrega de equipamentos com motores elétricos devido ao longo prazo que a WEG está impondo.
+2. O caminho crítico está em procurement, fabricação e entrega dos pacotes Transformer Rectifier, Bombas, Paineis Elétricos, Skid Frame e Instrumentação.
+3. Importante monitorar o prazo de entrega dos equipamentos para não impactar a data final de entrega dos skids.
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. MR Rev A emitido em 03/Jan/25, TBE Rev B emitido em 05/Mar/25 com todos os pontos fechados
+2. KOM realizado em 23/Jan/25
+3. Revisão A do GAD recebida no PIMS
+
+Pontos de atenção:
+1. Pendente atualização do número IR no TQF para aprovação formal referente à mudança de material do Skid Frame
+2. CTC (fornecedor de tubulação FRP) precisa submeter certificações conforme requisitos ISO e especificações do projeto
+3. VDR em andamento e necessita acompanhamento

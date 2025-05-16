@@ -2,11 +2,25 @@ RESUMO DO RELATÓRIO: PIG LAUNCHERS AND RECEIVERS
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto está em fase inicial, com foco em documentação técnica e engenharia
-2. GA drawings e cálculos de design foram submetidos para revisão em 25-26/abril/2025
-3. Pedido de compra para Quick-Opening Closure foi emitido para DB PROGETTI
+1. Projeto em fase inicial com GA drawings e Design Calculations submetidos para revisão em 25-26/04/2025
+2. PO (Purchase Order) confirmado para Quick-Opening Closure com fornecedor DB PROGETTI
+3. Processo de procurement iniciado para pipes e forgings
 
 Pontos de atenção:
-1. Pendência na compra de materiais para Barrel devido à mudança de código de design de B31.8 para B31.3
-2. Necessidade de aprovação dos documentos de design para iniciar a compra dos materiais de longo prazo de fabricação
-3. Seatrium e KBR precisam agilizar o retorno dos documentos de design para não impactar o cronograma
+1. Pendência na PO para Barrel Materials devido à mudança de código de design de B31.8 para B31.3
+2. Necessidade de expedição da aprovação dos documentos de design por Seatrium & KBR para iniciar aquisição de materiais críticos 
+3. Área de localização de alguns potenciais sub-fornecedores pode ser próxima a zonas de conflito, requerendo atenção especial
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. Projeto em andamento com Applied Engineering (AEPL) para Pig Launchers and Receivers
+2. MR e TBE foram emitidos e KOM técnico foi realizado em março de 2025
+3. Vendor submeteu no PIMS o GAD de 7 itens e cálculos de reforço para todos os bocais
+
+Pontos de atenção:
+1. Decisão final pendente sobre mudança do código de design de B31.8 para B31.3, que impacta espessura e peso
+2. Aguardando finalização da definição do código de design B31.3 para Pig L/R
+3. HAZOP do fornecedor ainda será agendado (TBA)

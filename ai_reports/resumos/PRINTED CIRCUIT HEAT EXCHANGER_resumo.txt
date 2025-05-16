@@ -1,0 +1,18 @@
+RESUMO DO RELATÓRIO: PRINTED CIRCUIT HEAT EXCHANGER
+================================================================================
+
+Primeiro relatório do pacote PRINTED CIRCUIT HEAT EXCHANGER ainda não emitido.
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. MR e MDS Rev A emitidos em 05-Mar-25, TBE Rev A liberado em 08-Mai-25
+2. KOM técnico realizado em 09-Mai-25
+3. VDRL atualizado enviado pela Heatric e está sob revisão
+
+Pontos de atenção:
+1. GAD para CO2 1º e 2º estágio PCHE's ainda não foi carregado no PIMS (atrasado desde 08-Mai-25)
+2. Injection discharge cooler PCHE em desenvolvimento mecânico - Heatric pressionada para entrega em meados de maio
+3. Pendente submissão dos PCHEs de Exportation 1º/2º estágio e CO2 1º/2º estágio pela Heatric

@@ -1,0 +1,18 @@
+RESUMO DO RELATÓRIO: NON-API 610 CENTRIFUGAL PUMPS
+================================================================================
+
+Primeiro relatório do pacote NON-API 610 CENTRIFUGAL PUMPS ainda não emitido.
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. MR Rev A e PO emitidos em fevereiro, e KOM realizado em 10-11 de abril
+2. Em andamento revisão de 57 desenhos do vendor incluindo Pump GAD, Data Sheet, e outros documentos técnicos
+3. Terminal box com novo design aceito por PB, aguardando detalhes dimensionais da WEG
+
+Pontos de atenção:
+1. Pendente resolução sobre kit de terminação em discussão com KSB/WEG
+2. Desvios nos testes de motor MV em discussão com KSB/WEG (impacto na entrega do teste de balanceamento)
+3. Necessidade de confirmação pela WEG dos limites de tensão de descarga parcial conforme specs PB

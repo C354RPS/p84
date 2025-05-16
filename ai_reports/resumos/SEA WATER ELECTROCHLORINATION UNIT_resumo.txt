@@ -2,11 +2,25 @@ RESUMO DO RELATÓRIO: SEA WATER ELECTROCHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto se encontra em fase inicial com foco na engenharia e procurement, com progresso físico total de 15% contra 27,3% planejado
-2. A equipe de engenharia está emitindo documentação técnica e antecipando processos de aquisição de equipamentos 
-3. Os principais equipamentos (retificadores, bombas, painéis elétricos) já têm propostas técnicas em análise e ordens de compra sendo emitidas
+1. O projeto está em fase inicial, com foco na emissão de documentação técnica e antecipação de pacotes de aquisição para os sistemas SWEU e FWC.
+2. A equipe de procurement está trabalhando nos itens críticos como Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação.
+3. Houve aumento de recursos humanos e antecipação de processos de aquisição buscando recuperar a curva S do projeto.
 
 Pontos de atenção:
-1. Atraso nos prazos de entrega de equipamentos com motores elétricos da WEG, impactando o cronograma 
-2. Necessidade de recuperação da linha base do projeto, que está com desvio negativo de 12%
-3. Caminho crítico concentrado em procurement e fabricação de equipamentos principais (retificadores, bombas, painéis)
+1. Atrasos na entrega de equipamentos com motor elétrico devido aos longos prazos do fabricante WEG.
+2. Necessidade de recuperação da linha base do projeto através da emissão de documentação técnica.
+3. Caminho crítico identificado em aquisições importantes como Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação.
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. MR em revisão B a ser emitida após análise dos comentários recebidos
+2. Kick-off Meeting realizado em janeiro/25 e DR60% agendado para junho/25
+3. Documentação do fornecedor De Nora em revisão no PIMS
+
+Pontos de atenção:
+1. Pendente submissão de certificações ISO pelo fornecedor De Nora
+2. Aguardando resposta sobre MSDS para De Nora
+3. Em andamento alteração de material do Skid Frame de ASTM A-131 para ASTM A-572 Gr.50

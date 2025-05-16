@@ -2,15 +2,29 @@ RESUMO DO RELATÓRIO: PROGRESSIVE CAVITY PUMPS
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto está na fase inicial de documentação e aprovação, com submissões sendo realizadas semanalmente para Seatrium e Petrobras, e posterior validação pela ABS.
+1. O projeto encontra-se na fase inicial de aprovação de documentação técnica pela Seatrium e Petrobras, sendo necessária posterior validação pela ABS para liberação das inspeções de fábrica.
 
-2. As reuniões de esclarecimento do projeto foram concluídas com sucesso, sem pendências sobre escopo e responsabilidades.
+2. As reuniões de esclarecimentos do projeto foram concluídas com sucesso, sem pendências quanto ao escopo e responsabilidades. 
 
-3. Está prevista uma reunião de pré-inspeção (PIM) para agosto de 2025, após a liberação para fabricação estimada para julho/agosto de 2025.
+3. Está prevista uma reunião de pré-inspeção (PIM) para agosto de 2025, após a liberação para fabricação.
 
 Pontos de atenção:
-1. A aprovação dos documentos críticos precisa ocorrer entre julho e agosto de 2025 para evitar atrasos na liberação para fabricação.
+1. A aprovação da documentação técnica precisa ocorrer entre julho e agosto de 2025 para evitar impactos no cronograma de fabricação.
 
-2. A validação da documentação pela ABS é pré-requisito para as inspeções de fábrica.
+2. As ordens de compra dos principais componentes foram emitidas mas aguardam liberação para início da fabricação após aprovação da documentação.
 
-3. Atrasos na aprovação da documentação impactarão diretamente o cronograma do projeto.
+3. A validação pela ABS é um pré-requisito crítico para as inspeções de fábrica e deve ser acompanhada de perto.
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+PRINCIPAIS FATOS RELEVANTES:
+1. Progressive Cavity Pumps sendo fornecidas pela NETZSCH (Brasil)
+2. KOM (Kick-off Meeting) realizado em 16/Abril
+3. TBE Rev A emitido em 29/Abril com status "Released" pelo PB em 02/Maio
+
+PONTOS DE ATENÇÃO:
+1. Aproximadamente 23 documentos do vendedor em processo de revisão (incluindo GAD, Data Sheet, curvas de performance)
+2. MDS Rev A necessita revisão após emissão do PDS Rev B
+3. MR Rev A emitido em 05/março ainda sem comentários

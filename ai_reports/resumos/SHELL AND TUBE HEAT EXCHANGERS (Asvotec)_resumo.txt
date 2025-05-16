@@ -2,11 +2,25 @@ RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Asvotec)
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto inclui fornecimento de trocadores de calor para duas plataformas (P-84 e P-85), com engenharia em andamento para P-84 e prevista para outubro/2025 para P-85.
-2. Tubulações dos trocadores já com PO emitidas e forjados com PO colocada apenas para reserva de capacidade produtiva.
-3. Projeto encontra-se na fase inicial de procurement e engenharia, sem atividades de construção iniciadas.
+1. Projeto P-84: Trocadores de calor em fase de projeto e procurement, com tubos já encomendados e forjados com ordens de compra emitidas
+2. PIM (Pre Inspection Meeting) consolidado para 11 de junho de 2025
+3. Emitidas ordens de compra importantes para placas duplex, canais em SA-765 Grade IV e canais com overlay em maio de 2025
 
 Pontos de atenção:
-1. Principal preocupação é a liberação dos forjados para produção, especialmente para os equipamentos com entrega prevista para 2025 (novembro e dezembro).  
-2. Data original prevista para liberação dos forjados era abril/2025, mas ainda não ocorreu. Nova previsão para 19/maio/2025.
-3. Após liberação dos forjados, os subfornecedores irão atualizar cronogramas de entrega e impactos serão avaliados com o cliente.
+1. Principal preocupação é a liberação de produção dos forjados, especialmente para itens com entrega prevista em 2025 
+2. Processo de liberação dos forjados depende de aprovação do cliente, com possíveis impactos no cronograma
+3. Nova data prevista para consolidação/liberação da fabricação dos forjados é 26 de maio, após a qual os subfornecedores atualizarão prazos de entrega
+
+================================================================================
+RESUMO DO RELATÓRIO KBR:
+================================================================================
+
+Principais fatos relevantes:
+1. KOM realizado com Himile (24/Mar) e Asvotec (26-28/Mar)
+2. Documentação técnica em revisão para ambos fornecedores (GA Drawings, cálculos térmicos e mecânicos)
+3. MDS com 8 itens liberados e 6 com comentários; TBE Rev.A liberado em 08/Mai/2025
+
+Pontos de atenção:
+1. Main Gas Compressor Discharge Cooler: pendente IR da Asvotec sobre weld toe to toe distance
+2. Structure Tank Recovery Gas Cooler: necessidade de confirmar com Asvotec discrepância entre posicionamento dos nozzles no thermal rating vs GAD
+3. Fuel Gas Heater e Injection Water Recycle Cooler: mudança de material do Channel flange para SA-765 Gr IV, requer acompanhamento especial durante PWHT e soldagem
