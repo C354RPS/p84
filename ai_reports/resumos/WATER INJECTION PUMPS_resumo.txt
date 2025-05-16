@@ -1,14 +1,14 @@
 RESUMO DO RELATÓRIO: WATER INJECTION PUMPS
 ================================================================================
 
-Baseado nos relatórios fornecidos, aqui está um resumo:
+Com base nos relatórios fornecidos, aqui está um resumo:
 
 Principais fatos relevantes:
-1. Os pedidos para os componentes principais já foram feitos, agora trabalhando em componentes secundários
-2. Engenharia está completa e todos os componentes foram liberados
-3. Previsão de entrega mantida para 03/04/2026
+1. O projeto está em fase inicial, com foco em documentação e aprovações
+2. As principais ordens de compra para componentes maiores foram emitidas
+3. A Voith (acoplamentos hidráulicos de velocidade variável) está no caminho crítico do projeto
 
 Pontos de atenção:
-1. Documentos já em revisão C ainda estão recebendo comentários, necessitando plano de ação da Seatrium
-2. Percentual de documentos certificados permanece significativamente baixo
-3. Voith (Acoplamentos Hidráulicos de Velocidade Variável) está no caminho crítico e requer atenção especial
+1. Baixa porcentagem de documentos certificados/aprovados 
+2. Tempo de resposta da Seatrium sobre justificativas CRS precisa melhorar
+3. Documentos em revisão C ainda estão recebendo comentários, necessitando plano de ação da Seatrium

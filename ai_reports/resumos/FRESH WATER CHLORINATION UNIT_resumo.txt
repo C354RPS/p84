@@ -2,11 +2,11 @@ RESUMO DO RELATÓRIO: FRESH WATER CHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-1. O fornecimento inclui unidades de eletroclonação com água do mar e cloração com água fresca para as plataformas P-84 e P-85
-2. Os projetos estão nas fases iniciais, com foco em engenharia e procurement
-3. Atrasos na engenharia estão sendo compensados com antecipação das compras de equipamentos críticos
+1. Projeto em fase inicial de engenharia com foco na emissão de documentação técnica e antecipação dos pacotes de aquisição para os skids SWEU e FWC.
+2. Contrato foi assinado em 14/03/2025 e já há mudança na estratégia de execução, antecipando processos de aquisição.
+3. Os principais equipamentos do caminho crítico são: Retificadores, Bombas, Painéis Elétricos, Estrutura do Skid e Instrumentação de Processo.
 
 Pontos de atenção:
-1. Atraso na entrega de equipamentos com motores elétricos devido aos longos prazos da WEG
-2. Desvio negativo no progresso da engenharia comparado ao planejado
-3. Itens críticos incluem retificadores, bombas, painéis elétricos, skid metálico e instrumentação de processo
+1. Há atraso no progresso geral do projeto em relação ao planejado (24,29% realizado vs 27,3% previsto).
+2. Atrasos significativos são esperados para equipamentos que possuem motores elétricos devido aos longos prazos do fabricante WEG.
+3. Fornecedores de vários componentes críticos estão localizados em diferentes países (China, EUA, Brasil, Índia), o que pode impactar prazos de entrega.

@@ -1,12 +1,12 @@
 RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Asvotec)
 ================================================================================
 
-Principais fatos relevantes (3 linhas):
-1. Projeto em fase inicial de engenharia e procurement, com 4.7% de progresso físico real vs 5.1% planejado.
-2. POs de tubos já emitidas para diversos fornecedores chineses com entregas previstas entre maio e setembro/2025.
-3. Material crítico (forjados) com POs emitidas apenas para reserva de capacidade produtiva, aguardando liberação técnica.
+Principais fatos relevantes:
+1. O projeto inclui fornecimento de trocadores de calor para duas plataformas (P-84 e P-85), com engenharia em andamento para P-84 e prevista para outubro/2025 para P-85.
+2. Tubulações dos trocadores já com PO emitidas e forjados com PO colocada apenas para reserva de capacidade produtiva.
+3. Projeto encontra-se na fase inicial de procurement e engenharia, sem atividades de construção iniciadas.
 
-Pontos de atenção (3 linhas):
-1. Atraso na liberação dos forjados impacta diretamente os equipamentos com entrega prevista para nov-dez/2025.
-2. Prazo original de liberação dos forjados era abril/2025, nova previsão para 19/maio/2025 após alinhamento técnico.
-3. Necessário atualização do cronograma após definição das datas de entrega dos forjados pelos subfornecedores.
+Pontos de atenção:
+1. Principal preocupação é a liberação dos forjados para produção, especialmente para os equipamentos com entrega prevista para 2025 (novembro e dezembro).  
+2. Data original prevista para liberação dos forjados era abril/2025, mas ainda não ocorreu. Nova previsão para 19/maio/2025.
+3. Após liberação dos forjados, os subfornecedores irão atualizar cronogramas de entrega e impactos serão avaliados com o cliente.

@@ -2,11 +2,11 @@ RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Himile)
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto está na fase inicial com 17,6% de progresso total, focado principalmente em engenharia (36,4%) e procurement (70%).
-2. Foram emitidas ordens de compra para itens importantes como tubos, tubesheet e chapas do corpo principal.
-3. Data prevista de entrega final do equipamento é 15/03/2026, com FAT programado para 24/01/2026.
+1. Projeto envolve trocadores de calor para P84 e P85 sendo fabricados pela Himile Mechanical Manufacturing na China
+2. O progresso físico atual está em 17,6% para P84 e 12,2% para P85
+3. Foram emitidas ordens de compra para os principais materiais: tubos, espelhos, chapas do corpo principal e flanges
 
 Pontos de atenção:
-1. Pendente resposta sobre flange do corpo que está impactando a data de compra deste item.
-2. Aguardando aprovação do desenho detalhado que deveria ocorrer em 16 de maio.
-3. Aguardando aprovação das revisões do GA (General Arrangement) e CAL (Cálculos).
+1. Aguardando aprovação dos desenhos detalhados que devem ser aprovados até 16 de maio
+2. Necessidade de resposta sobre flange do corpo pois está impactando o prazo de compra do material
+3. Alguns materiais têm prazo longo de entrega, como chapas cladeadas (julho/2025) e tubos (setembro/2025)

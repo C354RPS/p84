@@ -2,11 +2,11 @@ RESUMO DO RELATÓRIO: OFFSHORE CRANE
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto envolve a entrega de dois guindastes totalmente elétricos modelo NOV OC 3550LCV para o projeto P-84
-2. Data contratual de entrega dos guindastes é 20/Mar/2027 e dos adaptadores do pedestal é 26/Nov/2025
-3. O progresso geral do projeto está em 0,90%, alinhado com o planejado, com engenharia em 5% e procurement em 2%
+1. Projeto envolve a entrega de dois guindastes elétricos modelo NOV OC 3550LCV para a P-84
+2. Data contratual de entrega dos guindastes é 20 de março de 2027 e dos adaptadores do pedestal é 26 de novembro de 2025
+3. Progresso geral do projeto está em 0,90%, com engenharia em 5% e procurement em 2%
 
 Pontos de atenção:
-1. Existem 4 documentos atrasados na devolução de Seatrium para NOV que precisam ser acompanhados
-2. Data estimada de chegada dos componentes críticos (motores, redutores, etc.) está marcada como "TBA" (a ser definida)
-3. Fabricação dos adaptadores do pedestal deve iniciar em Junho/2025, sendo um marco importante a ser monitorado
+1. Existem 4 documentos atrasados de Seatrium para NOV que precisam ser analisados
+2. Próximo período requer foco na documentação conforme datas acordadas no VDRL
+3. Fabricação dos adaptadores do pedestal deve iniciar em junho de 2025
