@@ -2,29 +2,18 @@ RESUMO DO RELATÓRIO: FRESH WATER MAKER FOR OIL DILUTION
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto está em fase inicial de engenharia, com foco na emissão de documentação técnica e preparação das ordens de compra para equipamentos.
-
-2. POs já foram emitidas para fornecedores chave como Avicomp, KSB, WEG e Himile.
-
-3. O projeto tem dois trens (A e B) de Fresh Water Maker com data contratual de entrega em 30/5/26 (P-84) e 30/11/26 (P-85).
-
-Pontos de atenção:
-1. NPSHr insuficiente devido à redução na pressão mínima de entrada da água do mar, requerendo análise e possível redesign.
-
-2. Documentação crítica em hold aguardando comentários da Petrobras sobre o Document List final.
-
-3. Identificadas mudanças no PDS (Process Data Sheet) que podem impactar o projeto, aguardando detalhamento do fornecedor Hitachi.
-
-================================================================================
-RESUMO DO RELATÓRIO KBR:
-================================================================================
-
-Principais fatos relevantes:
-1. Equipamento Fresh Water Maker fornecido pela HITACHI, com reunião inicial (KOM) realizada em março/2025
-2. Documentação técnica inicial (PID, PFD, GAD) submetida pelo fornecedor para revisão
-3. C&E com 73 de 76 itens fechados, fornecedor confirmou dados finais de footprint, peso e dimensões estruturais
+1. Realizada reunião técnica KOM em 20-21 MAR 2025
+2. Documentos Rev.0 de PID, PFD e GAD submetidos pelo fornecedor para análise
+3. C&E com 73 de 76 itens fechados pela Petrobras
+4. Confirmação pelo fornecedor do footprint, dados de peso e dimensões estruturais finais
+5. Reuniões bi-semanais de progresso com Hitachi acontecendo regularmente às quintas-feiras
 
 Pontos de atenção:
-1. 3 itens de C&E ainda em aberto, incluindo interface com sistema HART da SIEMENS
-2. TQF de material estrutural pendente de análise
-3. Pendente confirmação de testes em motores LV e MV da WEG
+1. 3 itens de C&E ainda pendentes de fechamento:
+- Item 75: Aguardando resposta da Siemens sobre sistema HART
+- Item 25: Enviado TQF sobre material estrutural para avaliação da Petrobras
+- Item 58: Aguardando análise de resposta da Hitachi/WEG sobre teste de motores
+2. Algumas respostas da reunião KOM ainda em aberto
+3. Finalização da VDRL pendente
+4. Pressão de sucção mínima insuficiente para atender NPSH requerido
+5. Lista final de documentos em revisão pela Petrobras

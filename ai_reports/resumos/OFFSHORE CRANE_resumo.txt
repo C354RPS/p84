@@ -2,25 +2,15 @@ RESUMO DO RELATÓRIO: OFFSHORE CRANE
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto envolve a entrega de dois guindastes elétricos modelo NOV OC 3550LCV para a P-84
-2. Data contratual de entrega dos guindastes é março/2027 e dos pedestal adapters é novembro/2025
-3. O progresso geral está em 0,90%, conforme planejado, com engenharia em 5% e procurement em 2%
+1. Projeto contempla dois guindastes offshore All-Electric modelo NOV OC 3550LCV
+2. Data de entrega contratual dos guindastes é 20/Mar/2027 e dos Pedestal Adapters é 26/Nov/2025
+3. Kick-off Meeting realizado em 17-18/Março/2025
+4. Progresso geral do projeto está em 0,90%, alinhado com o planejado
+5. Engineering em 5% e Procurement em 2% de avanço, conforme planejado
 
 Pontos de atenção:
-1. Existem 4 documentos em atraso por parte da Seatrium para análise da NOV
-2. Todos os componentes críticos (slew bearing, motores, gear boxes, etc) ainda estão com data de chegada a ser confirmada
-3. Foco necessário na documentação conforme datas acordadas no VDRL
-
-================================================================================
-RESUMO DO RELATÓRIO KBR:
-================================================================================
-
-Principais fatos relevantes:
-1. Contrato de Offshore Cranes com fornecedor NOV, com KOM realizado em março/2025
-2. MR e PO emitidos em dezembro, MDS Rev C emitido em abril/2025
-3. 6 documentos do fornecedor em análise e comentários sobre VDRL/GA/3D enviados em abril
-
-Pontos de atenção:
-1. Necessidade de reunião entre KBR/SEATRIUM e NOV para alinhamento do Cause & Effect chart
-2. Interface com Module platforms atualizada pela NOV nos desenhos GA
-3. -
+1. Existem 4 documentos em atraso de resposta da Seatrium para NOV
+2. Necessidade de alinhamento sobre Causa & Efeito entre KBR/SEATRIUM e NOV na próxima semana
+3. Datas estimadas de chegada dos componentes críticos ainda não definidas (TBA)
+4. Interfaces com plataformas de módulos atualizadas nos desenhos GA
+5. Foco necessário em documentação conforme datas acordadas no VDRL

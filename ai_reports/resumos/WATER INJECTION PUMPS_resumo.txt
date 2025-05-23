@@ -1,28 +1,18 @@
 RESUMO DO RELATÓRIO: WATER INJECTION PUMPS
 ================================================================================
 
-Aqui está um resumo dos principais fatos relevantes e pontos de atenção do relatório:
+Com base nos relatórios fornecidos, aqui está o resumo solicitado:
 
-Principais fatos relevantes:
-1. O projeto está em fase inicial com 22,7% de progresso geral
-2. Os principais equipamentos tiveram suas ordens de compra emitidas
-3. O pacote inclui bombas de injeção de água principais e booster para a plataforma P-84
+Principais fatos relevantes (5 linhas):
+1. Os Water Injection Pumps estão em fase inicial de projeto, com MR e MDS emitidos em outubro/24
+2. Foi realizado o KOM (Kick-off Meeting) e o TBE foi aprovado em fevereiro/25
+3. Aproximadamente 30 documentos do fornecedor foram emitidos com comentários
+4. O progresso atual está em 22,7% vs 28% planejado (atraso de 5,3%)
+5. Voith (Variable Hydraulic Speed Couplings) está no caminho crítico do projeto e requer atenção especial
 
-Pontos de atenção:
-1. O fornecedor Voith (acoplamentos hidráulicos de velocidade variável) está no caminho crítico e requer atenção especial na aprovação de documentação
-2. O percentual de documentos certificados permanece significativamente baixo
-3. Há atraso nas respostas da Seatrium às justificativas de CRS enviadas por email, com diversos documentos aguardando feedback
-
-================================================================================
-RESUMO DO RELATÓRIO KBR:
-================================================================================
-
-Principais fatos relevantes:
-1. Projeto em andamento com Sulzer (Brasil) para Water Injection Pumps, com documentação em diferentes estágios de aprovação
-2. Aproximadamente 30 documentos do fornecedor foram emitidos com comentários SEA/KBR
-3. Meeting técnico adicional agendado para 22 de maio
-
-Pontos de atenção:
-1. Questão pendente sobre válvula de controle de fluxo mínimo e sua entrega a tempo para o FAT
-2. Comprimento reto disponível para SWBP (2.6D) e Main WIP (4D) não atende requisito de 5D
-3. TQFs pendentes de resposta da PB, incluindo questões sobre material Super Duplex e pressostatos
+Pontos de atenção (5 linhas):
+1. Atraso nos pagamentos impactando marcos do projeto
+2. Baixo percentual de documentos certificados/aprovados 
+3. Tempo de resposta da Seatrium às justificativas CRS precisa melhorar
+4. Válvula de controle de fluxo mínimo - processo de licitação em andamento e prazo pode impactar FAT
+5. Comprimento reto disponível para SWBP e Main WIP não atende requisito de 5D, necessitando ajustes de layout

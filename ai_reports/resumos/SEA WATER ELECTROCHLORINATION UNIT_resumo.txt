@@ -2,25 +2,25 @@ RESUMO DO RELATÓRIO: SEA WATER ELECTROCHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto está em fase inicial, com foco na emissão de documentação técnica e antecipação de pacotes de aquisição para os sistemas SWEU e FWC.
-2. A equipe de procurement está trabalhando nos itens críticos como Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação.
-3. Houve aumento de recursos humanos e antecipação de processos de aquisição buscando recuperar a curva S do projeto.
+
+1. O projeto contempla fornecimento de unidades de eletrocoloração de água do mar e cloração de água doce para as plataformas P-84 e P-85
+
+2. Existem marcos importantes como DR60 e HAZOP previstos para junho/2025
+
+3. O progresso físico atual está em cerca de 15% para P-84, ligeiramente abaixo do planejado, e ainda não iniciado para P-85
+
+4. A De Nora está antecipando processos de procurement para mitigar riscos de atrasos nas entregas dos equipamentos
+
+5. Os principais fornecedores já foram definidos e as ordens de compra principais estão sendo emitidas
 
 Pontos de atenção:
-1. Atrasos na entrega de equipamentos com motor elétrico devido aos longos prazos do fabricante WEG.
-2. Necessidade de recuperação da linha base do projeto através da emissão de documentação técnica.
-3. Caminho crítico identificado em aquisições importantes como Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação.
 
-================================================================================
-RESUMO DO RELATÓRIO KBR:
-================================================================================
+1. Existe atraso no cronograma do projeto P-84 que precisa ser recuperado
 
-Principais fatos relevantes:
-1. MR em revisão B a ser emitida após análise dos comentários recebidos
-2. Kick-off Meeting realizado em janeiro/25 e DR60% agendado para junho/25
-3. Documentação do fornecedor De Nora em revisão no PIMS
+2. Há preocupação com prazos longos de entrega para equipamentos com motores elétricos (fornecedor WEG)
 
-Pontos de atenção:
-1. Pendente submissão de certificações ISO pelo fornecedor De Nora
-2. Aguardando resposta sobre MSDS para De Nora
-3. Em andamento alteração de material do Skid Frame de ASTM A-131 para ASTM A-572 Gr.50
+3. Os principais itens críticos são: Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação
+
+4. Necessário certificar fornecedor CTC quanto aos requisitos ISO e especificações do projeto
+
+5. Em andamento resposta pendente de MSDS para De Nora

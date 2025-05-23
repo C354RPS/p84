@@ -2,25 +2,15 @@ RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Asvotec)
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto P-84: Trocadores de calor em fase de projeto e procurement, com tubos já encomendados e forjados com ordens de compra emitidas
-2. PIM (Pre Inspection Meeting) consolidado para 11 de junho de 2025
-3. Emitidas ordens de compra importantes para placas duplex, canais em SA-765 Grade IV e canais com overlay em maio de 2025
+1. Há dois fornecedores principais envolvidos no projeto: ASVOTEC e HIMILE
+2. Em andamento a revisão de documentação técnica (desenhos e cálculos) de ambos fornecedores
+3. Várias ordens de compra foram colocadas para materiais críticos como tubos, forjados e chapas
+4. Os primeiros testes de inspeção estão previstos para junho de 2025
+5. O progresso físico atual está em 5.4% para o P84 e 1.2% para o P85
 
 Pontos de atenção:
-1. Principal preocupação é a liberação de produção dos forjados, especialmente para itens com entrega prevista em 2025 
-2. Processo de liberação dos forjados depende de aprovação do cliente, com possíveis impactos no cronograma
-3. Nova data prevista para consolidação/liberação da fabricação dos forjados é 26 de maio, após a qual os subfornecedores atualizarão prazos de entrega
-
-================================================================================
-RESUMO DO RELATÓRIO KBR:
-================================================================================
-
-Principais fatos relevantes:
-1. KOM realizado com Himile (24/Mar) e Asvotec (26-28/Mar)
-2. Documentação técnica em revisão para ambos fornecedores (GA Drawings, cálculos térmicos e mecânicos)
-3. MDS com 8 itens liberados e 6 com comentários; TBE Rev.A liberado em 08/Mai/2025
-
-Pontos de atenção:
-1. Main Gas Compressor Discharge Cooler: pendente IR da Asvotec sobre weld toe to toe distance
-2. Structure Tank Recovery Gas Cooler: necessidade de confirmar com Asvotec discrepância entre posicionamento dos nozzles no thermal rating vs GAD
-3. Fuel Gas Heater e Injection Water Recycle Cooler: mudança de material do Channel flange para SA-765 Gr IV, requer acompanhamento especial durante PWHT e soldagem
+1. Atraso na liberação dos materiais forjados que pode impactar prazos de entrega do P84
+2. Necessidade de ajustes no design do resfriador de gás de tanques estruturais devido a fluxo bifásico
+3. Alterações no comprimento total do aquecedor de gás combustível requerem aprovação do cliente
+4. Ajustes necessários no comprimento do resfriador de água de injeção sob análise de manuseio
+5. Pendente definição de datas para testes de impacto de materiais pelo fornecedor Asvotec

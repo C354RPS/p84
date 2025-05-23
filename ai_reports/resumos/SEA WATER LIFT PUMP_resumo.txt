@@ -1,26 +1,18 @@
 RESUMO DO RELATÓRIO: SEA WATER LIFT PUMP
 ================================================================================
 
-Principais fatos relevantes:
-1. O projeto está em fase inicial com apenas 1% de progresso geral, focado principalmente na engenharia e procurement dos principais componentes.
-2. Foram colocados pedidos de compra para os pacotes de estator com o fornecedor Innomotics, com entregas previstas para outubro/2025.
-3. As principais atividades em andamento são relacionadas à engenharia para compra de itens de longo prazo de entrega e documentação principal.
-
-Pontos de atenção:
-1. O projeto necessita de confirmação do draft e submergência das bombas, o que está impactando documentos críticos.
-2. Não há outros atrasos ou desvios significativos reportados neste momento, considerando que o projeto está em fase inicial.
-3. Não foram reportados problemas de HSE no período.
-
-================================================================================
-RESUMO DO RELATÓRIO KBR:
-================================================================================
+Com base nos documentos fornecidos, segue o resumo solicitado:
 
 Principais fatos relevantes:
-1. MR Rev A, PO e MDS Rev A foram emitidos em dezembro, e TBE Rev A foi emitido em março.
-2. KOM foi realizado em 17 e 18 de fevereiro.
-3. Aproximadamente 10 documentos do vendor (Utility List, P&ID Rev A, Weight data sheet, etc.) estão em revisão.
+1. Projeto está em fase inicial com apenas 1% de progresso geral
+2. KOM (Kick-off Meeting) foi realizado em 17-18/Fevereiro/2025
+3. MR Rev A emitido em 24/Dez e PO emitido em 20/Dez/2024
+4. Pacotes do estator já foram contratados com a Innomotics com entrega prevista para Out/2025
+5. Documentação técnica inicial (GAD/P&ID/3D model) já foi submetida e retornada com comentários
 
 Pontos de atenção:
-1. Mudança proposta pela CIMC no diâmetro da mangueira de entrada de água do mar (de 900mm para 750mm ID) afetará o NPSHa da bomba.
-2. A alteração resultará em aumento do peso e comprimento da bomba para aumentar a submergência em 1m.
-3. Cálculos de NPSHa foram submetidos pela Framo para duas condições: draft mínimo operacional e draft de comissionamento.
+1. Mudança no diâmetro da mangueira de água do mar (de 900mm para 750mm ID) afetará o NPSH da bomba
+2. A mudança da mangueira aumentará o peso e comprimento para aumentar submergência em 1m
+3. Cálculos de NPSH para draft mínimo (13.596m) e comissionamento (8.921m) precisam ser validados
+4. Submergência/draft não clarificados estão atrasando documentos críticos
+5. Diversos documentos do fornecedor (aprox. 10) em análise aguardando aprovação

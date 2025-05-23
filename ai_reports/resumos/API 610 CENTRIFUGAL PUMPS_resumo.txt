@@ -1,18 +1,16 @@
 RESUMO DO RELATÓRIO: API 610 CENTRIFUGAL PUMPS
 ================================================================================
 
-Primeiro relatório do pacote API 610 CENTRIFUGAL PUMPS ainda não emitido.
-
-================================================================================
-RESUMO DO RELATÓRIO KBR:
-================================================================================
-
 Principais fatos relevantes:
-1. KSB (Brazil) é o fornecedor das API 610 Centrifugal Pumps, com PO emitido em 20-Fev
+1. Pedido de compra emitido em 20-Fev para KSB Brasil para fornecimento de bombas centrífugas API 610
 2. KOM realizado entre 08 e 09 de Abril
-3. 16 documentos do fornecedor foram comentados e emitidos, restando 194 documentos em análise
+3. 16 documentos do fornecedor já foram comentados e emitidos
+4. 194 documentos ainda estão em análise
+5. VDR em andamento incluindo GAD, P&IDs, sistemas de selagem e curvas de performance
 
 Pontos de atenção:
-1. Desvio nos testes de motor MV (balanceamento do rotor e certificação IP) com impacto no prazo de entrega
-2. KSB realizando estudos CFD baseados em isométricos da linha de sucção para cotovelos de água de resfriamento
-3. Pendências em relação aos tamanhos de linha de dreno/flush (3/8" vs 1/2") e thermowell (3" vs 6") aguardando aprovação via TQF
+1. Desvios nos testes de motores MV (balanceamento do rotor e certificação IP) com potencial impacto no prazo
+2. KSB realizando estudos CFD para cotovelos de raio longo na linha de água de resfriamento
+3. Pendência na definição do tamanho das linhas de quench, dreno e flush do sistema de selagem
+4. TQF em aberto relacionado ao tamanho do termopoço (3" vs 6") para elementos de temperatura
+5. Recomendação HAZOP pendente sobre proteção de temperatura para bombas específicas
