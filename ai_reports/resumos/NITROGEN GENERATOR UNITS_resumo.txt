@@ -1,18 +1,28 @@
 RESUMO DO RELATÓRIO: NITROGEN GENERATOR UNITS
 ================================================================================
 
-Com base no relatório fornecido, segue o resumo solicitado:
+Aqui está um resumo dos principais fatos relevantes e pontos de atenção baseado nos relatórios:
 
-Principais fatos relevantes:
-1. Projeto do Nitrogen Generator Units com entrega prevista para outubro de 2025 para unidade flare
-2. KOM (Kick-off Meeting) realizado em 10-11 de fevereiro de 2025
-3. Principais documentos técnicos (PID, GAD, ITP, Datasheet) receberam comentários e estão em revisão
-4. PIM (Pre-Inspection Meeting) realizado em 1-2 de abril de 2025
-5. Ordens de compra emitidas para componentes principais como compressor, módulo N2, motor e vasos de pressão
+Principais Fatos Relevantes:
 
-Pontos de atenção:
-1. Filosofia de controle do N2 intensifier skid precisa ser finalizada - GDK confirmou que incluirá comentários KBR
-2. Desenhos e cálculos do N2 Buffer vessel pendentes com fornecedor ARXO
-3. TQF emitido para mudança de material de válvulas manuais 
-4. Escopo das válvulas On/Off upstream do gerador de nitrogênio em revisão
-5. O progresso atual está levemente atrasado em relação ao planejado (23.8% vs 24.8%)
+1. O projeto está em fase inicial de engenharia e procurement, com design review 60% realizado em 8 de maio de 2025
+
+2. Os pedidos de compra (POs) já foram emitidos para válvulas manuais e componentes PLC
+
+3. Foram submetidos para revisão os desenhos de UCP, PDP e caixas de junção do compressor intensificador
+
+4. Os principais equipamentos como compressores de ar, membranas N2 e tanques já têm fornecedores definidos
+
+5. O prazo contratual de entrega é fevereiro de 2026 para P84 e agosto de 2026 para P85
+
+Pontos de Atenção:
+
+1. Atraso na fabricação do motor do compressor de ar da unidade N2 flare devido a comentários pendentes
+
+2. Teste hidrostático do cárter do compressor de ar agendado para 15-16 maio pode impactar prazo de entrega
+
+3. Questão em aberto sobre exceção NR-13 para cilindros de N2 - proposta para usar SPIE ao invés de NR-13
+
+4. Pendente definição do escopo das válvulas on/off upstream do gerador de nitrogênio
+
+5. Necessidade de revisão da localização do duto de exaustão do compressor HP que está direcionado para escada vertical

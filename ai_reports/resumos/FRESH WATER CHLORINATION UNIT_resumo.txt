@@ -2,17 +2,15 @@ RESUMO DO RELATÓRIO: FRESH WATER CHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-
-1. O projeto encontra-se em fase inicial de engenharia e procurement
-2. Foram emitidas revisões dos documentos técnicos MR (Rev A) e TBE (Rev B), este último já liberado
-3. O KOM (Kick-off Meeting) foi realizado em 23/01/2025
-4. O fornecimento envolve duas unidades principais: SWEU (Seawater Electrochlorination Unit) e FWC (Fresh Water Chlorination Unit)
-5. O projeto tem previsão de entrega final em fevereiro/2026
+1. Projeto em fase inicial de engenharia e procurement com 24,29% de progresso físico
+2. Principais equipamentos em processo de aquisição com POs emitidas para Transformer Rectifier, Painéis Elétricos e Electrolysers
+3. DR60 (Design Review) programado para início de junho/2025
+4. Fornecedor principal De Nora alterou estratégia antecipando processos de procurement 
+5. Reunião de KOM (Kick-off Meeting) realizada em janeiro/2025
 
 Pontos de atenção:
-
-1. Existe atraso no cronograma de emissão de documentos técnicos em relação ao baseline
-2. Há longo prazo de entrega para equipamentos com motores elétricos (WEG)
-3. Aguardando aprovação da troca de material do skid frame (de ASTM A-131 para ASTM A-572 Gr.50)
-4. Pendência de certificações ISO do fornecedor de tubulação FRP (CTC)
-5. O projeto está atrás do cronograma, porém sem impacto na data final de entrega por enquanto
+1. Atraso geral no cronograma de 3,7% em relação ao baseline
+2. Longo prazo de entrega dos motores elétricos WEG impactando entregas dos equipamentos
+3. Pendência de certificações do fornecedor CTC para tubulações em FRP
+4. TQF em aberto para aprovação referente ao material do Skid Frame
+5. Pendência de definição do aterramento dos tanques não-metálicos

@@ -3,14 +3,14 @@ RESUMO DO RELATÓRIO: FLARE SYSTEM
 
 Principais fatos relevantes:
 1. MR (Rev 0) emitido em 19/Fev/2025
-2. Dois fornecedores em avaliação: John Zink e ZEECO
-3. BCM com ZEECO finalizado e aguardando revisão da proposta técnica
-4. BCM com John Zink planejado para 13-15 de maio
-5. Relief Panel e SDVs relacionados mudaram de OPCIONAL para escopo BASE
+2. Bidders são John Zink e ZEECO
+3. Relief Panel e SDVs relacionados mudaram de OPCIONAL para escopo BASE
+4. BCM finalizado com ambos fornecedores
+5. JZ vai compartilhar tecnologia TIP (usa blower em HP tips - Rimfire)
 
 Pontos de atenção:
-1. ZEECO destacou preocupação com o manuseio do Flare (método P78)
-2. John Zink propôs material SS310 S ao invés de SS310 H para Flare tip
-3. JZ propôs flare HP de 2 estágios com requisito de N2 - taxa de purga maior que capacidade
-4. JZ excluiu Relief Panel da oferta
-5. Definição pendente das opções de HP Flare (ponta única ou 2 estágios), PB confirmou proceder com 2 estágios
+1. ZEECO manifestou preocupação com Flare handling (método P78) - requer discussão detalhada
+2. Quantidade e tamanho das válvulas de estágio e PSE ainda precisam ser definidos
+3. TBE previsto para Maio 2025
+4. JZ reduziu taxa de purga de N2 baseado em filosofia de purga e operação de P74, P75, P77
+5. Aguardando revisão da proposta técnica do John Zink para 21/Mai/25

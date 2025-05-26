@@ -2,25 +2,15 @@ RESUMO DO RELATÓRIO: SEA WATER ELECTROCHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-
-1. O projeto contempla fornecimento de unidades de eletrocoloração de água do mar e cloração de água doce para as plataformas P-84 e P-85
-
-2. Existem marcos importantes como DR60 e HAZOP previstos para junho/2025
-
-3. O progresso físico atual está em cerca de 15% para P-84, ligeiramente abaixo do planejado, e ainda não iniciado para P-85
-
-4. A De Nora está antecipando processos de procurement para mitigar riscos de atrasos nas entregas dos equipamentos
-
-5. Os principais fornecedores já foram definidos e as ordens de compra principais estão sendo emitidas
+1. O projeto envolve duas unidades: Seawater Electrochlorination Unit (SWEU) e Fresh Water Chlorination Unit (FWC) para as plataformas P-84 e P-85
+2. O fornecedor principal é a De Nora do Brasil com diversos subfornecedores internacionais
+3. A data prevista de entrega final dos equipamentos é Fevereiro/2026
+4. A fase atual é de procurement e engenharia, com foco em emissão de documentação técnica
+5. O progresso físico atual está em aproximadamente 24% para P-84 e 15% para P-85
 
 Pontos de atenção:
-
-1. Existe atraso no cronograma do projeto P-84 que precisa ser recuperado
-
-2. Há preocupação com prazos longos de entrega para equipamentos com motores elétricos (fornecedor WEG)
-
-3. Os principais itens críticos são: Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação
-
-4. Necessário certificar fornecedor CTC quanto aos requisitos ISO e especificações do projeto
-
-5. Em andamento resposta pendente de MSDS para De Nora
+1. Atrasos nas entregas de equipamentos que possuem motor elétrico devido aos longos prazos do fabricante WEG
+2. Caminho crítico envolve Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação
+3. De Nora está antecipando processos de procurement para mitigar riscos de atraso
+4. Necessidade de certificações ISO pendentes junto à De Nora
+5. P-85 apresenta progresso menor que P-84, indicando possível necessidade de ações de recuperação

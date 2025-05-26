@@ -2,15 +2,15 @@ RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Asvotec)
 ================================================================================
 
 Principais fatos relevantes:
-1. Há dois fornecedores principais envolvidos no projeto: ASVOTEC e HIMILE
-2. Em andamento a revisão de documentação técnica (desenhos e cálculos) de ambos fornecedores
-3. Várias ordens de compra foram colocadas para materiais críticos como tubos, forjados e chapas
-4. Os primeiros testes de inspeção estão previstos para junho de 2025
-5. O progresso físico atual está em 5.4% para o P84 e 1.2% para o P85
+1. Existem dois projetos paralelos - P84 e P85 com equipamentos similares
+2. P84 está em fase mais avançada com 5.4% de progresso
+3. Documentação técnica do P84 está em análise e aprovação
+4. Tubos dos trocadores de calor já estão com PO emitidas
+5. Fornecedor Asvotec está fabricando equipamentos para ambos projetos
 
 Pontos de atenção:
-1. Atraso na liberação dos materiais forjados que pode impactar prazos de entrega do P84
-2. Necessidade de ajustes no design do resfriador de gás de tanques estruturais devido a fluxo bifásico
-3. Alterações no comprimento total do aquecedor de gás combustível requerem aprovação do cliente
-4. Ajustes necessários no comprimento do resfriador de água de injeção sob análise de manuseio
-5. Pendente definição de datas para testes de impacto de materiais pelo fornecedor Asvotec
+1. Atraso na liberação de forjados do P84 que pode impactar cronograma
+2. Alguns trocadores de calor do P84 têm entrega prevista para 2025
+3. Necessidade de inspeção em tempo integral pela Seatrium devido volume de atividades
+4. Preocupação com leadtime dos forjados afetando entregas de 2025
+5. Ajustes técnicos pendentes em alguns trocadores específicos (ex: Main Gas Compressor Discharge Cooler)

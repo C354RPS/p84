@@ -2,15 +2,15 @@ RESUMO DO RELATÓRIO: API 610 CENTRIFUGAL PUMPS
 ================================================================================
 
 Principais fatos relevantes:
-1. Pedido de compra emitido em 20-Fev para KSB Brasil para fornecimento de bombas centrífugas API 610
-2. KOM realizado entre 08 e 09 de Abril
-3. 16 documentos do fornecedor já foram comentados e emitidos
-4. 194 documentos ainda estão em análise
-5. VDR em andamento incluindo GAD, P&IDs, sistemas de selagem e curvas de performance
+1. KSB (Brasil) é o fornecedor dos API 610 Centrifugal Pumps
+2. PO emitido em 20-Fev e KOM realizado em 08-09 de Abril
+3. 51 documentos em revisão incluindo lista de consumo do motor elétrico, filosofia VFD e P&IDs
+4. TBE Rev A emitido em 17-Mai-2025 e recebeu status "Released" em 22-Mai-2025
+5. MDS Rev B planejado após emissão do PDS Rev B
 
 Pontos de atenção:
-1. Desvios nos testes de motores MV (balanceamento do rotor e certificação IP) com potencial impacto no prazo
-2. KSB realizando estudos CFD para cotovelos de raio longo na linha de água de resfriamento
-3. Pendência na definição do tamanho das linhas de quench, dreno e flush do sistema de selagem
-4. TQF em aberto relacionado ao tamanho do termopoço (3" vs 6") para elementos de temperatura
-5. Recomendação HAZOP pendente sobre proteção de temperatura para bombas específicas
+1. KSB realizando estudos CFD para linha de sucção de água de resfriamento
+2. Pendência sobre dimensões das linhas de seal quench e drain (3/8" vs 1/2")
+3. Necessidade de TQF para linha de flush de 3/4" ao invés de 1/2" solicitado
+4. Recomendação HAZOP sobre proteção de temperatura para bombas HW Circulation e HW Dump Cooler
+5. Sistema pode operar 2-3 horas com fluxo reduzido ou sem água de resfriamento conforme KSB

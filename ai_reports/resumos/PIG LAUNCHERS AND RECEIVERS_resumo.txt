@@ -2,15 +2,25 @@ RESUMO DO RELATÓRIO: PIG LAUNCHERS AND RECEIVERS
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto está em fase inicial de engenharia com reunião de kick-off realizada em 17 de março de 2025
-2. Desenhos gerais (GAD) de 7 itens foram submetidos pelo fornecedor no sistema PIMS
-3. Fornecedor já submeteu cálculos de reforço para todos os bocais dos Pig Launchers/Receivers
-4. Contrato prevê entrega dos equipamentos entre janeiro e fevereiro de 2026
-5. Pedido de compra para Quick-Opening Closure já foi emitido para DB PROGETTI
+
+1. Projeto em fase inicial de engenharia e aquisição de materiais para fornecimento de PIG Launchers/Receivers para P-84 e P-85
+
+2. Mudança de código de projeto de B31.8 para B31.3 em discussão, pendente aprovação final 
+
+3. First PO emitido para Quick Opening Closure (QOC) para DB Progetti
+
+4. Fornecimento dividido em 27 unidades para P-84 com entregas em Jan-Fev/2026 e 27 unidades para P-85 com entregas em Set-Out/2026
+
+5. Progress global do projeto está em 10% (engenharia) com atraso na colocação de POs para materiais principais
 
 Pontos de atenção:
-1. Há discussão em andamento sobre mudança do código de projeto de B31.8 para B31.3, impactando espessura e peso
-2. Pedido de material para barris (barrels) está pendente devido à mudança de código de projeto
-3. Aguardando aprovação dos documentos de engenharia para iniciar compra de materiais críticos
-4. Projeto ainda em fase muito inicial com apenas 6.18% de progresso na engenharia
-5. Necessário expeditar retorno dos documentos de projeto para não impactar cronograma de materiais
+
+1. Pendente definição final do código de projeto (B31.3 vs B31.8) impactando início de fabricação
+
+2. Necessidade de aprovação da VOR (Variation Order Request) para formalizar mudança de código
+
+3. Atraso de 1 mês na colocação de POs para materiais principais (barrels e forgings) devido à indefinição do código
+
+4. Necessidade de confirmação do ABS para certificação com B31.8
+
+5. Documentos técnicos em hold até definição do código de projeto

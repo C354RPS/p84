@@ -2,22 +2,15 @@ RESUMO DO RELATÓRIO: PROGRESSIVE CAVITY PUMPS
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto está na fase inicial de aprovação de documentação técnica pelo Seatrium e Petrobras.
-
-2. Após aprovação dos clientes, documentação será submetida para validação ABS.
-
-3. Reuniões de esclarecimento do projeto foram concluídas com sucesso, sem pendências.
-
-4. Está prevista reunião PIM (Pre-Inspection Meeting) para agosto de 2025.
-
-5. Liberação para fabricação prevista para julho/agosto após aprovação da documentação.
+1. O projeto está na fase inicial de aprovação de documentação técnica pela Seatrium e Petrobras
+2. Após aprovações, documentos serão submetidos à certificadora ABS para validação
+3. Reuniões de esclarecimento do projeto foram concluídas sem pendências de escopo
+4. PIM (Pre-Inspection Meeting) planejada para agosto de 2025
+5. Liberação para fabricação prevista para final de julho/início de agosto de 2025
 
 Pontos de atenção:
-
-1. Aprovação dos documentos principais deve ocorrer entre julho e agosto de 2025 para evitar atrasos no cronograma.
-
-2. Validação ABS é pré-requisito para inspeções de fábrica.
-
-3. Atrasos na aprovação da documentação impactarão diretamente o cronograma do projeto.
-
-4. Fabricação só será autorizada após aprovação da documentação completa.
+1. Documentos críticos submetidos há 3 semanas ainda aguardam retorno/aprovação dos clientes
+2. Preocupação com tempo de resposta para aprovação de documentos pode impactar cronograma
+3. Necessidade de aprovação dos documentos chave até julho/agosto para evitar atrasos na liberação de fabricação
+4. Possível limitação de ciclos de revisão devido a atrasos no processo de aprovação
+5. Monitoramento intensivo necessário para mitigar riscos no cronograma

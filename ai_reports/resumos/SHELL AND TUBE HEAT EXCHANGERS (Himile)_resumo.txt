@@ -3,24 +3,24 @@ RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Himile)
 
 Principais fatos relevantes:
 
-1. Projeto envolve fornecimento de trocadores de calor tipo casco e tubo para as plataformas P84 e P85
+1. Dois fornecedores envolvidos no projeto: ASVOTEC e HIMILE.
 
-2. Dois fornecedores envolvidos: ASVOTEC e HIMILE
+2. Documentação técnica em revisão, incluindo GAD (General Arrangement Drawing), cálculos mecânicos e térmicos.
 
-3. Status atual de documentação técnica: MR Rev A, MDS Rev B e TBE Rev A emitidos e em análise
+3. Reuniões de kick-off (KOM) realizadas em março com ambos fornecedores.
 
-4. KOM (Kick-off Meeting) realizado em março com ambos fornecedores
+4. Progresso geral do projeto está em aproximadamente 17% para HIMILE.
 
-5. Progresso físico atual: P84 em 17.6% e P85 em 12.2%
+5. Principal equipamento (Production Heater) tem previsão de entrega para março/2026.
 
 Pontos de atenção:
 
-1. Questão do "weld toe to toe distance" no Main Gas Compressor Discharge Cooler - aguardando IR da Asvotec
+1. Questão em aberto sobre "weld toe to toe distance" no Main Gas Compressor Discharge Cooler.
 
-2. Shell side velocity issue no Structure Tank Recovery Gas Cooler - necessário confirmar posicionamento dos bocais
+2. Necessidade de ajustes no Structure Tank Recovery Gas Cooler devido a questões de velocidade e fluxo bifásico.
 
-3. Alteração de material do flange do canal no Fuel Gas Heater - aguardando WPS e datas dos testes de impacto
+3. Aumento do comprimento total do Fuel Gas Heater de 6004mm para 6700mm, requerendo mudança de material.
 
-4. Injection Water Recycle Cooler - em análise se o comprimento reduzido do feixe pode ser manuseado no módulo
+4. Pendência na definição do manuseio do Injection Water Recycle Cooler devido ao comprimento do bundle.
 
-5. Dilution Water Heater - cálculo HTRI em revisão pelo cliente
+5. Falha no cálculo das flanges T1/T2 do Hot Water Dump Cooler, necessitando adequação.

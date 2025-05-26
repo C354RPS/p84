@@ -1,16 +1,18 @@
 RESUMO DO RELATÓRIO: OFFSHORE CRANE
 ================================================================================
 
+Com base nos documentos fornecidos, segue o resumo solicitado:
+
 Principais fatos relevantes:
-1. Projeto contempla dois guindastes offshore All-Electric modelo NOV OC 3550LCV
-2. Data de entrega contratual dos guindastes é 20/Mar/2027 e dos Pedestal Adapters é 26/Nov/2025
-3. Kick-off Meeting realizado em 17-18/Março/2025
-4. Progresso geral do projeto está em 0,90%, alinhado com o planejado
-5. Engineering em 5% e Procurement em 2% de avanço, conforme planejado
+1. Projeto de fornecimento de 2 General Purpose Offshore Cranes para P-84 e P-85 pelo fornecedor NOV Norway
+2. Equipamentos são do modelo OC3550LCV com capacidade de 40mt, all-electric driven
+3. Data de entrega para P-84: Março 2027 (cranes) e Novembro 2025 (pedestal adapters)
+4. KOM (Kick-off Meeting) realizado em 17-18 de Março/2025
+5. Progresso geral atual está em 0,90% conforme relatório mensal de Abril/2025
 
 Pontos de atenção:
-1. Existem 4 documentos em atraso de resposta da Seatrium para NOV
-2. Necessidade de alinhamento sobre Causa & Efeito entre KBR/SEATRIUM e NOV na próxima semana
-3. Datas estimadas de chegada dos componentes críticos ainda não definidas (TBA)
-4. Interfaces com plataformas de módulos atualizadas nos desenhos GA
-5. Foco necessário em documentação conforme datas acordadas no VDRL
+1. Atrasos na definição do fornecimento de software e licenças para o rádio VHF
+2. Pendente confirmação das datas de colocação de PO para componentes críticos (slew bearing, motores, gearboxes)
+3. Data limite de congelamento do design do pedestal adapter definida para final de Maio/2025
+4. 4 documentos pendentes de resposta da Seatrium para NOV
+5. Longos lead times para componentes críticos (até 42 semanas para VSD Drives)

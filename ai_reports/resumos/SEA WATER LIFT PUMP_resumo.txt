@@ -4,15 +4,15 @@ RESUMO DO RELATÓRIO: SEA WATER LIFT PUMP
 Com base nos documentos fornecidos, segue o resumo solicitado:
 
 Principais fatos relevantes:
-1. Projeto está em fase inicial com apenas 1% de progresso geral
-2. KOM (Kick-off Meeting) foi realizado em 17-18/Fevereiro/2025
-3. MR Rev A emitido em 24/Dez e PO emitido em 20/Dez/2024
-4. Pacotes do estator já foram contratados com a Innomotics com entrega prevista para Out/2025
-5. Documentação técnica inicial (GAD/P&ID/3D model) já foi submetida e retornada com comentários
+1. Projeto em fase inicial com ordem de compra emitida em fevereiro/2025 para FRAMO fornecer bombas de captação de água do mar (SWL)
+2. Executado kick-off meeting em fevereiro/2025 e já iniciado processo de compra dos principais componentes
+3. Avaliação do cronograma indica projeto de longa duração com entrega final prevista para janeiro/2027
+4. Progressos atuais concentrados na engenharia e compras dos pacotes de motores elétricos (stator packages)
+5. Projeto dividido em 2 tipos de bombas: 4 unidades principais (SE400/800) e 1 unidade de partida/backup (SE200/250)
 
 Pontos de atenção:
-1. Mudança no diâmetro da mangueira de água do mar (de 900mm para 750mm ID) afetará o NPSH da bomba
-2. A mudança da mangueira aumentará o peso e comprimento para aumentar submergência em 1m
-3. Cálculos de NPSH para draft mínimo (13.596m) e comissionamento (8.921m) precisam ser validados
-4. Submergência/draft não clarificados estão atrasando documentos críticos
-5. Diversos documentos do fornecedor (aprox. 10) em análise aguardando aprovação
+1. Mudança no diâmetro da mangueira flexível de captação de água (de 900mm para 750mm) pode impactar NPSH das bombas
+2. Necessidade de aumentar comprimento da bomba em 1m para compensar alteração do NPSH
+3. Pendente confirmação dos valores finais de draft e submergência das bombas
+4. Cálculos de NPSH em análise para duas condições: draft mínimo operacional (13.596m) e draft de comissionamento (8.921m)
+5. Documentação técnica crítica dependendo da definição dos valores finais de draft/submergência

@@ -2,15 +2,15 @@ RESUMO DO RELATÓRIO: RECIPROCATING PUMPS
 ================================================================================
 
 Principais fatos relevantes:
-1. MR Rev A e MDS Rev A emitidos em 26 de março
-2. KOM (Kick-off Meeting) realizado em 15 e 16 de abril de 2025
-3. TBE Rev 0 emitido em 14 de março, comentários do PB recebidos em 24 de março
-4. Atualização do modelo 3D recebido da PERONI baseado nos comentários KBR para DR60
-5. Comentários sobre P&ID preliminar, VDRL e diagramas de interconexão compartilhados com Peroni em 28/abril
+1. MR Rev A e MDS Rev A emitidos em março, com PO já emitida
+2. KOM realizado em 15 e 16 de abril de 2025
+3. Documentos chave (GAD, Mechanical Datasheet, P&ID) recebidos via PIMS em revisão
+4. Estudo preliminar de pulsação recebido da PERONI em 12/maio
+5. 28 documentos/desenhos do fornecedor em revisão
 
 Pontos de atenção:
-1. 21 pontos ainda abertos de 83 na discussão TBE com PERONI
-2. Aguardando resposta da PERONI sobre TQ EL-36 e itens elétricos C&E
-3. Pendente confirmação da WEG sobre teste de motor (item DDA 11)
-4. Aguardando resposta sobre estudo de pulsação para operação de bomba única
-5. Necessidade de aprovação do PB para uso de orifício nas linhas de sucção e descarga
+1. Pendente resposta da PETROBRAS para itens elétricos C&E (16, 40, 56-60)
+2. Aguardando confirmação da WEG sobre teste do motor (DDA item 11)
+3. Necessidade de inclusão de orifício nas linhas de sucção e descarga
+4. Pendente estudo de pulsação para operação de bomba única (Well service pump)
+5. Necessidade de redução da pressão do PSV-5133055 A/B/C para 34350 kPa g devido a limitações subsea
