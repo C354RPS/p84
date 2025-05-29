@@ -2,15 +2,25 @@ RESUMO DO RELATÓRIO: PROGRESSIVE CAVITY PUMPS
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto está na fase inicial de aprovação de documentação técnica pela Seatrium e Petrobras
-2. Após aprovações, documentos serão submetidos à certificadora ABS para validação
-3. Reuniões de esclarecimento do projeto foram concluídas sem pendências de escopo
-4. PIM (Pre-Inspection Meeting) planejada para agosto de 2025
-5. Liberação para fabricação prevista para final de julho/início de agosto de 2025
+
+1. O projeto está na fase inicial de aprovação de documentação pela Seatrium e Petrobras, sendo um pré-requisito crítico para as inspeções de fábrica.
+
+2. Está planejada uma reunião PIM (Pre-Inspection Meeting) em agosto de 2025, logo após a estimativa de liberação da fabricação.
+
+3. A fase de aprovação da documentação está prevista para final de julho/início de agosto 2025.
+
+4. Os documentos críticos para autorização de fabricação foram submetidos há cerca de 3 semanas.
+
+5. O progresso físico atual está abaixo do esperado, mas é previsto aumento significativo nas próximas semanas.
 
 Pontos de atenção:
-1. Documentos críticos submetidos há 3 semanas ainda aguardam retorno/aprovação dos clientes
-2. Preocupação com tempo de resposta para aprovação de documentos pode impactar cronograma
-3. Necessidade de aprovação dos documentos chave até julho/agosto para evitar atrasos na liberação de fabricação
-4. Possível limitação de ciclos de revisão devido a atrasos no processo de aprovação
-5. Monitoramento intensivo necessário para mitigar riscos no cronograma
+
+1. Há preocupação crescente com o tempo de resposta para aprovação dos documentos submetidos.
+
+2. Atrasos na aprovação podem impactar os prazos de liberação para fabricação.
+
+3. O cronograma atual pode ficar apertado para atender os deadlines definidos.
+
+4. Pode haver limitação para múltiplos ciclos de revisão devido aos atrasos.
+
+5. A falta de aprovação dos documentos-chave entre julho e agosto pode impactar o cronograma geral do projeto.

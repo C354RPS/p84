@@ -2,15 +2,15 @@ RESUMO DO RELATÓRIO: NON-API 610 CENTRIFUGAL PUMPS
 ================================================================================
 
 Principais fatos relevantes:
-1. MR Rev A, PO e TBE Rev A foram emitidos, e o KOM foi realizado em abril
-2. GAD para start-up cooling water pump, datasheets e desenhos foram revisados
-3. 4 desenhos de acoplamento estão em revisão
-4. Nova configuração da terminal box foi aceita pela PB, aguardando detalhes dimensionais da WEG
-5. KSB submeteu desenho preliminar do pump skid com detalhes de peso estimado em 23 de maio
+1. MR Rev A e PO emitidos em fevereiro, KOM realizado em abril
+2. GAD para start-up cooling water pump e diversos documentos técnicos revisados no PIMS
+3. 4 desenhos de acoplamento em revisão para próxima semana
+4. Nova configuração de terminal box sem terminal neutro em preparação pela WEG
+5. WEG submeteu desenho do motor com detalhes do terminal box em 22 de maio
 
 Pontos de atenção:
-1. Pendente discussão sobre layout/arrangement devido a questões de MH para manuseio do Motor/Terminal box
-2. Kit de terminação em discussão com KSB/WEG
-3. Desvios nos testes do Motor MV em discussão (impacto no teste de balanceamento e limites de tensão de descarga parcial)
-4. Necessário estudo do MH para arranjo de içamento para remoção do Motor baseado no GA atualizado
-5. Observações elétricas da KBR precisam ser consideradas na submissão do desenho no PIMS
+1. Pendente discussão sobre layout/arranjo devido questões de MH para manuseio do Motor/Terminal box
+2. Desvios nos testes do Motor MV em discussão com KSB/WEG (impacto no teste de balanceamento)
+3. Limites de voltagem de descarga parcial precisam ser confirmados pela WEG conforme specs PB
+4. KSB submeteu desenho preliminar do pump skid com detalhes de peso estimado
+5. MH precisa estudar arranjo de elevação para remoção do Motor baseado no GA atualizado

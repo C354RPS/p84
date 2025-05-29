@@ -1,18 +1,16 @@
 RESUMO DO RELATÓRIO: WATER INJECTION PUMPS
 ================================================================================
 
-Com base nos relatórios fornecidos, vou fazer um resumo dos principais fatos relevantes e pontos de atenção:
-
 Principais fatos relevantes:
-1. Equipamentos principais são Water Injection Pumps da Sulzer com entrega prevista para 03/04/2026
-2. O projeto está em fase inicial com foco em documentação técnica e procurement
-3. KOM (Kick-off Meeting) foi completada e reuniões bi-semanais estão ocorrendo
-4. Foram emitidos cerca de 30 documentos do fornecedor com comentários da SEA/KBR
-5. Reunião técnica adicional agendada para 22 de maio, incluindo HAZOP
+1. Projeto de bombas de injeção de água em andamento com Sulzer Brasil para as plataformas P-84 e P-85
+2. Cronograma atual indica entrega final dos equipamentos em abril/2026 no estaleiro Nantong na China
+3. Reunião de Design Review e HAZOP programada para 21 e 23 de maio/2025 respectivamente
+4. Principal fornecedor crítico é a Voith (acoplamento hidráulico variável) com fabricação na Alemanha 
+5. Progresso físico atual em aproximadamente 55% sem atrasos reportados até o momento
 
 Pontos de atenção:
-1. Comprimento reto disponível não atende requisito de 5D para SWBP (2.6D) e Main WIP (4D) - requer modificações de layout
-2. Válvula de controle de fluxo mínimo precisa ser verificada para entrega a tempo dos testes FAT
-3. Tempo de resposta da Seatrium para justificativas CRS precisa melhorar
-4. Baixa porcentagem de documentos certificados/aprovados 
-5. TQF pendente sobre material do invólucro do pressostato do motor - aguarda resposta PB
+1. Pendente aprovação da Petrobras sobre material do pressostato do motor principal (alumínio)
+2. Documentos em revisão C ainda recebendo comentários, necessário melhorar fluxo de aprovação
+3. Comprimento reto disponível nas tubulações de sucção das bombas não atende requisito de 5D
+4. Pendente validação do layout de tubulação pela KBR para verificação dos requisitos de sucção
+5. Necessária atualização dos documentos relacionados aos sensores dos motores elétricos

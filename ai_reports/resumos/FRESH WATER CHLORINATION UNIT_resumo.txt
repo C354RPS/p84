@@ -2,15 +2,17 @@ RESUMO DO RELATÓRIO: FRESH WATER CHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-1. Projeto em fase inicial de engenharia e procurement com 24,29% de progresso físico
-2. Principais equipamentos em processo de aquisição com POs emitidas para Transformer Rectifier, Painéis Elétricos e Electrolysers
-3. DR60 (Design Review) programado para início de junho/2025
-4. Fornecedor principal De Nora alterou estratégia antecipando processos de procurement 
-5. Reunião de KOM (Kick-off Meeting) realizada em janeiro/2025
+
+1. Em andamento o projeto de duas unidades de cloração (água do mar e água doce) para os projetos P84 e P85
+2. De Nora do Brasil é a fornecedora principal com diversos subfornecedores globais
+3. Data de entrega final prevista para fevereiro de 2026
+4. Progresso físico total em 24,3% para P84 e menor para P85
+5. Principal entrega no período foi a documentação para DR60 e início das aquisições
 
 Pontos de atenção:
-1. Atraso geral no cronograma de 3,7% em relação ao baseline
-2. Longo prazo de entrega dos motores elétricos WEG impactando entregas dos equipamentos
-3. Pendência de certificações do fornecedor CTC para tubulações em FRP
-4. TQF em aberto para aprovação referente ao material do Skid Frame
-5. Pendência de definição do aterramento dos tanques não-metálicos
+
+1. Atraso no cronograma de engenharia que está impactando outras atividades
+2. Longo prazo de entrega dos motores elétricos pelo fabricante WEG 
+3. Necessidade de submissão de certificações do fornecedor CTC para tubulações FRP
+4. Necessidade de regularização do workflow para mudança de material na estrutura do skid
+5. Pendência na definição do sistema de aterramento para tanques não-metálicos

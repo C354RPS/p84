@@ -2,25 +2,15 @@ RESUMO DO RELATÓRIO: PIG LAUNCHERS AND RECEIVERS
 ================================================================================
 
 Principais fatos relevantes:
-
-1. Projeto em fase inicial de engenharia e aquisição de materiais para fornecimento de PIG Launchers/Receivers para P-84 e P-85
-
-2. Mudança de código de projeto de B31.8 para B31.3 em discussão, pendente aprovação final 
-
-3. First PO emitido para Quick Opening Closure (QOC) para DB Progetti
-
-4. Fornecimento dividido em 27 unidades para P-84 com entregas em Jan-Fev/2026 e 27 unidades para P-85 com entregas em Set-Out/2026
-
-5. Progress global do projeto está em 10% (engenharia) com atraso na colocação de POs para materiais principais
+1. O pacote consiste em 27 unidades de Pig Launchers e Receivers para as plataformas P-84 e P-85
+2. Houve mudança no código de design de B31.8 para B31.3, aguardando confirmação do VOR pela Seatrium
+3. GA drawings e cálculos foram submetidos em 28/abril mas estão em hold aguardando confirmação do VOR
+4. PO para Quick Opening Closure foi confirmado com DB Progetti
+5. As datas de entrega são: Jan/Fev 2026 para P-84 e Set/Out 2026 para P-85
 
 Pontos de atenção:
-
-1. Pendente definição final do código de projeto (B31.3 vs B31.8) impactando início de fabricação
-
-2. Necessidade de aprovação da VOR (Variation Order Request) para formalizar mudança de código
-
-3. Atraso de 1 mês na colocação de POs para materiais principais (barrels e forgings) devido à indefinição do código
-
-4. Necessidade de confirmação do ABS para certificação com B31.8
-
-5. Documentos técnicos em hold até definição do código de projeto
+1. Atraso de 1 mês na colocação dos POs devido à mudança de código de design
+2. Compra dos materiais principais (barris e forjados) em hold aguardando confirmação do VOR
+3. Necessária aprovação da ABS para certificação com código B31.8
+4. Cálculos de reforço para todos os bocais foram submetidos mas aguardam aprovação
+5. Documentação técnica em revisão/aprovação aguardando definição do código aplicável

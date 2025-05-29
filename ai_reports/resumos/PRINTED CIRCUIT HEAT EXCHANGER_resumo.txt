@@ -2,15 +2,17 @@ RESUMO DO RELATÓRIO: PRINTED CIRCUIT HEAT EXCHANGER
 ================================================================================
 
 Principais fatos relevantes:
-1. Material Requisition (MR) e Material Data Sheet (MDS) emitidos em Rev A em 05-Mar-25
-2. Technical Bid Evaluation (TBE) liberado pelo PB em 08-Mai-25
-3. Kick-off Meeting técnico realizado em 09-Mai-25
-4. Documentos oficiais para Export Gas compressor 1º e 2º estágios submetidos pela Heatric
-5. Vendor Design Review (VDR) planejado para próxima semana
+
+1. Realizada reunião de kick-off técnico em 09/05/2025 para os Printed Circuit Heat Exchangers
+2. Heatric compartilhou versões preliminares dos documentos para os trocadores do 1º e 2º estágio do compressor de exportação
+3. Material das placas do núcleo (core plates) em SS316/316L já foi comprado e está em estoque
+4. Projeto está na fase de design detalhado, com GADs e documentação técnica em desenvolvimento
+5. Cronograma prevê entregas dos equipamentos entre julho e setembro de 2026
 
 Pontos de atenção:
-1. GAD para CO2 1º e 2º estágios PCHE's ainda não disponibilizado no PIMS conforme prometido
-2. Comentários prévios não foram incorporados pela Heatric nos documentos submetidos
-3. Informações de outras disciplinas e orientações de bocais estão faltando na documentação
-4. Aumento do footprint do Export 1º estágio em ~125mm, contrariando fase de proposta
-5. Pontos abertos do KOM técnico ainda pendentes de fechamento pelo fornecedor
+
+1. Aumento do footprint do trocador do 1º estágio de exportação em ~125mm, KBR solicitou manter dimensões da fase de proposta
+2. Comentários fornecidos nos documentos preliminares não foram incorporados pela Heatric
+3. Pendente fechamento de pontos em aberto da ata da reunião de kick-off técnico
+4. Flanges ISO Compact são itens críticos devido ao longo lead time e histórico de atrasos do fornecedor Freudenberg
+5. Pendente definição dos pontos de inspeção e testes no ITP

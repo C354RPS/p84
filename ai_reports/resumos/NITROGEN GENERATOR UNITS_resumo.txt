@@ -1,28 +1,18 @@
 RESUMO DO RELATÓRIO: NITROGEN GENERATOR UNITS
 ================================================================================
 
-Aqui está um resumo dos principais fatos relevantes e pontos de atenção baseado nos relatórios:
+Com base nos documentos fornecidos, segue o resumo solicitado:
 
-Principais Fatos Relevantes:
+Principais fatos relevantes (5 linhas):
+1. Dois TQFs (Technical Queries) foram emitidos relacionados a materiais de válvulas e requisitos NR-13
+2. O projeto envolve unidades geradoras de nitrogênio para P-84 e P-85
+3. O progresso físico geral do P-84 está em 30.4% vs. 31.7% planejado
+4. Design Review 60% (DR60) foi realizado em 8 de maio de 2025
+5. Principais equipamentos em fabricação incluem Air Dryer Tower, Filter Housing e N2 Membrane Housing
 
-1. O projeto está em fase inicial de engenharia e procurement, com design review 60% realizado em 8 de maio de 2025
-
-2. Os pedidos de compra (POs) já foram emitidos para válvulas manuais e componentes PLC
-
-3. Foram submetidos para revisão os desenhos de UCP, PDP e caixas de junção do compressor intensificador
-
-4. Os principais equipamentos como compressores de ar, membranas N2 e tanques já têm fornecedores definidos
-
-5. O prazo contratual de entrega é fevereiro de 2026 para P84 e agosto de 2026 para P85
-
-Pontos de Atenção:
-
-1. Atraso na fabricação do motor do compressor de ar da unidade N2 flare devido a comentários pendentes
-
-2. Teste hidrostático do cárter do compressor de ar agendado para 15-16 maio pode impactar prazo de entrega
-
-3. Questão em aberto sobre exceção NR-13 para cilindros de N2 - proposta para usar SPIE ao invés de NR-13
-
-4. Pendente definição do escopo das válvulas on/off upstream do gerador de nitrogênio
-
-5. Necessidade de revisão da localização do duto de exaustão do compressor HP que está direcionado para escada vertical
+Pontos de atenção (5 linhas):
+1. TQF pendente sobre troca de material de válvulas manuais de cladded para material alternativo
+2. Dificuldade em encontrar fornecedor que atenda requisitos NR-13 para cilindros de nitrogênio
+3. Revisão necessária da localização do duto de exaustão do compressor HP que está direcionado para escada vertical
+4. Questões em aberto sobre escopo de válvulas On/Off upstream do gerador de nitrogênio
+5. Punch points do DR60 em revisão pelo fornecedor GDK

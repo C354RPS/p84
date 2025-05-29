@@ -2,15 +2,25 @@ RESUMO DO RELATÓRIO: FRESH WATER MAKER FOR OIL DILUTION
 ================================================================================
 
 Principais fatos relevantes:
-1. C&E FWMOD tem 73 de 76 itens fechados, restando 3 itens em aberto que estão sendo tratados
-2. C&E FWM VD tem 58 de 60 itens fechados, com 2 itens em aberto pendentes
-3. POs emitidas para fornecedores principais: KSB (bombas), WEG (motores/painéis), Himile (estruturas)  
-4. Reuniões bi-semanais de acompanhamento acontecendo regularmente às quintas-feiras
-5. Inspeções e FATs principais programados entre setembro/2025 e setembro/2026
+
+1. Projeto em fase inicial de engenharia, com POs emitidas para os principais equipamentos (KSB, WEG, Himile, Avicomp)
+
+2. Documentação em desenvolvimento, com VDRL em finalização e pendente de comentários do cliente Petrobras
+
+3. Reuniões semanais de acompanhamento sendo realizadas entre Seatrium, KBR e fornecedor Hitachi
+
+4. Cronograma prevê entrega dos equipamentos em Maio/2026 (P84) e Novembro/2026 (P85)
+
+5. Fabricante principal Hitachi já iniciou engenharia e desenvolvimento do skid
 
 Pontos de atenção:
-1. NPSHr insuficiente devido à redução na pressão mínima de entrada de água do mar
-2. Lista de documentos (SDRL) aguardando comentários da Petrobras, impactando submissões críticas
-3. Mudanças identificadas nas especificações de processo que podem impactar o projeto
-4. Conformidade com especificações de válvulas flangeadas precisa ser confirmada
-5. Alguns itens longos prazos de entrega precisam ter ordens de compra emitidas rapidamente
+
+1. NPSHr insuficiente devido à redução na pressão mínima da água do mar na entrada - pendente resolução
+
+2. Submissão de documentos críticos em hold aguardando comentários Petrobras no VDRL
+
+3. Mudanças identificadas nas especificações de tubulação que podem impactar o projeto
+
+4. Necessidade de garantir cumprimento dos prazos de entrega longos (49 semanas) para bombas centrífugas
+
+5. Alterações em processo podem requerer modificações no tamanho do skid e GAD

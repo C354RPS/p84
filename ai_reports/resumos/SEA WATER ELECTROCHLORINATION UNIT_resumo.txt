@@ -2,15 +2,15 @@ RESUMO DO RELATÓRIO: SEA WATER ELECTROCHLORINATION UNIT
 ================================================================================
 
 Principais fatos relevantes:
-1. O projeto envolve duas unidades: Seawater Electrochlorination Unit (SWEU) e Fresh Water Chlorination Unit (FWC) para as plataformas P-84 e P-85
-2. O fornecedor principal é a De Nora do Brasil com diversos subfornecedores internacionais
-3. A data prevista de entrega final dos equipamentos é Fevereiro/2026
-4. A fase atual é de procurement e engenharia, com foco em emissão de documentação técnica
-5. O progresso físico atual está em aproximadamente 24% para P-84 e 15% para P-85
+1. O projeto envolve a fabricação de unidades de eletrocloração de água do mar e cloração de água doce para duas plataformas (P-84 e P-85).
+2. O contrato foi assinado em março/2025 e tem previsão de entrega em fevereiro/2026.
+3. Os principais fornecedores já foram definidos e os pedidos de compra críticos estão em andamento.
+4. O progresso físico atual é de 12,26% para o P-84 e 0% para o P-85.
+5. A fabricação ainda não foi iniciada, estando na fase de engenharia e procurement.
 
 Pontos de atenção:
-1. Atrasos nas entregas de equipamentos que possuem motor elétrico devido aos longos prazos do fabricante WEG
-2. Caminho crítico envolve Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação
-3. De Nora está antecipando processos de procurement para mitigar riscos de atraso
-4. Necessidade de certificações ISO pendentes junto à De Nora
-5. P-85 apresenta progresso menor que P-84, indicando possível necessidade de ações de recuperação
+1. Há atraso no progresso em relação ao planejado (-3,7%) devido a atrasos na documentação técnica.
+2. Longos prazos de entrega de equipamentos com motor elétrico pelo fornecedor WEG.
+3. Itens críticos no caminho crítico: Transformer Rectifier, Bombas, Painéis Elétricos, Skid Frame e Instrumentação.
+4. Necessidade de aceleração da emissão de documentos técnicos para recuperar o baseline.
+5. Vários fornecedores internacionais (China, EUA, Alemanha) que podem impactar prazos de entrega.

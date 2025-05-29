@@ -2,25 +2,23 @@ RESUMO DO RELATÓRIO: SHELL AND TUBE HEAT EXCHANGERS (Himile)
 ================================================================================
 
 Principais fatos relevantes:
+1. Himile submeteu desenhos e cálculos (GA, mecânicos e térmicos) em revisão A e desenhos detalhados em revisão 0.
 
-1. Dois fornecedores envolvidos no projeto: ASVOTEC e HIMILE.
+2. O progresso físico geral está em 20% conforme planejado, sem atrasos reportados.
 
-2. Documentação técnica em revisão, incluindo GAD (General Arrangement Drawing), cálculos mecânicos e térmicos.
+3. Os principais materiais como tubos, tubesheet, chapas do corpo e primeiro lote de flanges já foram comprados.
 
-3. Reuniões de kick-off (KOM) realizadas em março com ambos fornecedores.
+4. KBR deve concluir revisão do GAD Rev.A até 30-Mai-2025 no PIMS.
 
-4. Progresso geral do projeto está em aproximadamente 17% para HIMILE.
-
-5. Principal equipamento (Production Heater) tem previsão de entrega para março/2026.
+5. PIM (Pre-Inspection Meeting) está programado para 16-Jun-2025.
 
 Pontos de atenção:
+1. Atrasos no retorno dos comentários do GAD estão impactando a compra do segundo lote de flanges dos bocais.
 
-1. Questão em aberto sobre "weld toe to toe distance" no Main Gas Compressor Discharge Cooler.
+2. Aguardando aprovação da Petrobras para os desenhos detalhados.
 
-2. Necessidade de ajustes no Structure Tank Recovery Gas Cooler devido a questões de velocidade e fluxo bifásico.
+3. Clientes precisam retornar os comentários dos desenhos detalhados até 30-Mai-2025 conforme solicitado pela Himile.
 
-3. Aumento do comprimento total do Fuel Gas Heater de 6004mm para 6700mm, requerendo mudança de material.
+4. Impacto potencial nas metas de compras de flanges devido aos atrasos nas aprovações.
 
-4. Pendência na definição do manuseio do Injection Water Recycle Cooler devido ao comprimento do bundle.
-
-5. Falha no cálculo das flanges T1/T2 do Hot Water Dump Cooler, necessitando adequação.
+5. Necessidade de confirmar com antecedência testes de impacto previstos para segunda semana de julho.

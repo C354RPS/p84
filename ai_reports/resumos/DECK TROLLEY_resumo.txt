@@ -3,14 +3,14 @@ RESUMO DO RELATÓRIO: DECK TROLLEY
 
 Principais fatos relevantes:
 1. MR Rev 0 emitido em 07/Fev para Deck Trolleys
-2. Propostas recebidas de 3 fornecedores: EXO, Excellift e Flowtech
-3. TQs (Technical Queries) foram emitidas para os fornecedores em 28/Mar
-4. Flowtech confirmou fornecimento de trolley para container de alimentos de 10T e estação de carregamento
-5. BCM (Bid Clarification Meeting) agendada com Excellift para 19/Mai
+2. Propostas recebidas de EXO, Excellift e Flowtech
+3. BCM agendado com Excellift para 19/Maio
+4. TBE previsto para fim de Maio/2025
+5. Flowtech confirmou fornecimento de food container trolley de 10T e estação de carregamento
 
 Pontos de atenção:
-1. Excellift possui 46 TQs em aberto e 64 fechadas
-2. Flowtech enviou resposta parcial às TQs
-3. BCMs ainda precisam ser agendadas com Flowtech e EXO
-4. Time de Entregas (TBE) previsto apenas para fim de maio/2025
-5. Necessidade de expeditar respostas dos fornecedores para continuidade da avaliação das propostas
+1. TQs em aberto com Excellift (46 pendentes de 110 total)
+2. Flowtech enviou resposta parcial
+3. BCMs ainda precisam ser agendados com Flowtech e EXO
+4. Necessário acompanhar respostas pendentes dos fornecedores
+5.

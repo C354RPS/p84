@@ -2,15 +2,15 @@ RESUMO DO RELATÓRIO: FLARE SYSTEM
 ================================================================================
 
 Principais fatos relevantes:
-1. MR (Rev 0) emitido em 19/Fev/2025
-2. Bidders são John Zink e ZEECO
+1. MR Rev 0 emitido em 19/Fev/2025
+2. Dois fornecedores participando: John Zink e ZEECO
 3. Relief Panel e SDVs relacionados mudaram de OPCIONAL para escopo BASE
 4. BCM finalizado com ambos fornecedores
-5. JZ vai compartilhar tecnologia TIP (usa blower em HP tips - Rimfire)
+5. TBE previsto para Maio 2025
 
 Pontos de atenção:
-1. ZEECO manifestou preocupação com Flare handling (método P78) - requer discussão detalhada
+1. ZEECO expressa preocupação com o método P78 de manuseio do Flare
 2. Quantidade e tamanho das válvulas de estágio e PSE ainda precisam ser definidos
-3. TBE previsto para Maio 2025
-4. JZ reduziu taxa de purga de N2 baseado em filosofia de purga e operação de P74, P75, P77
-5. Aguardando revisão da proposta técnica do John Zink para 21/Mai/25
+3. John Zink propôs redução na taxa de purga de N2 baseado na filosofia de purga
+4. TIP technology da John Zink (Rimfire) precisa ser compartilhada com a Petrobras
+5. Necessidade de discussão e fechamento dos pontos técnicos abertos do BCM

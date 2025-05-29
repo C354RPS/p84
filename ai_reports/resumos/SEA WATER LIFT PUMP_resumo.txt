@@ -1,18 +1,18 @@
 RESUMO DO RELATÓRIO: SEA WATER LIFT PUMP
 ================================================================================
 
-Com base nos documentos fornecidos, segue o resumo solicitado:
+Aqui está o resumo solicitado:
 
 Principais fatos relevantes:
-1. Projeto em fase inicial com ordem de compra emitida em fevereiro/2025 para FRAMO fornecer bombas de captação de água do mar (SWL)
-2. Executado kick-off meeting em fevereiro/2025 e já iniciado processo de compra dos principais componentes
-3. Avaliação do cronograma indica projeto de longa duração com entrega final prevista para janeiro/2027
-4. Progressos atuais concentrados na engenharia e compras dos pacotes de motores elétricos (stator packages)
-5. Projeto dividido em 2 tipos de bombas: 4 unidades principais (SE400/800) e 1 unidade de partida/backup (SE200/250)
+1. Projeto se encontra em fase inicial de engenharia e procurement, com 1% de progresso geral
+2. Principal item em andamento é o pacote de estator do motor, com procurement iniciado e 24% de progresso
+3. Kick-off meeting foi realizada em 17 e 18 de fevereiro
+4. Material Requisition (MR) Rev A foi emitida em 24 de dezembro
+5. Diversos desenhos técnicos foram emitidos, incluindo painéis, topologia de rede e modelos 3D
 
 Pontos de atenção:
-1. Mudança no diâmetro da mangueira flexível de captação de água (de 900mm para 750mm) pode impactar NPSH das bombas
-2. Necessidade de aumentar comprimento da bomba em 1m para compensar alteração do NPSH
-3. Pendente confirmação dos valores finais de draft e submergência das bombas
-4. Cálculos de NPSH em análise para duas condições: draft mínimo operacional (13.596m) e draft de comissionamento (8.921m)
-5. Documentação técnica crítica dependendo da definição dos valores finais de draft/submergência
+1. Alteração do diâmetro da mangueira flexível de água do mar de 900mm para 750mm ID proposta pela CIMC
+2. Impacto no NPSH disponível requer cálculos adicionais de hidráulica
+3. Esta alteração aumentará o peso e comprimento da bomba em 1m 
+4. Aguardando cálculo de NPSH para draft operacional mínimo (13.596m) e draft de comissionamento (8.921m)
+5. Necessidade de revisão do MDS após resolução das pendências no PDS
