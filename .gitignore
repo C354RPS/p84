@@ -14,6 +14,7 @@ old/
 ai_reports/resumos/
 ai_reports/files/
 DadosBasicos/
+sharepoint/
 
 # Enviroment files #
 .venv/
