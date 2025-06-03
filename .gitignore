@@ -11,7 +11,8 @@
 
 # Directory #
 old/
-P84_85/ai_reports/resumos
+ai_reports/resumos/
+DadosBasicos/
 
 # Enviroment files #
 .venv/
