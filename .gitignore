@@ -15,6 +15,7 @@ ai_reports/resumos/
 ai_reports/files/
 DadosBasicos/
 sharepoint/
+.ipynb_checkpoints/
 
 # Enviroment files #
 .venv/
